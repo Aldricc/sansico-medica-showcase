@@ -8,7 +8,9 @@ Dikerjakan bersama [@sin666leton](https://github.com/sin666leton). Kode sumber p
 
 ## Peran saya
 
-- [Isi dengan bagian yang kamu kerjakan, misalnya: modul produk dan spesifikasi, pencarian produk, halaman publik, dll]
+- Mengerjakan seluruh frontend: halaman publik (beranda, katalog produk, detail produk, pencarian, galeri, berita, kontak) dan antarmuka panel admin (form dan tabel untuk semua modul CRUD), termasuk tampilan yang responsif di desktop dan mobile.
+
+Backend dikerjakan oleh [@sin666leton](https://github.com/sin666leton).
 
 ## Fitur
 
