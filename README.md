@@ -33,10 +33,8 @@ Backend dikerjakan oleh [@sin666leton](https://github.com/sin666leton).
 
 ## Teknologi
 
-- Backend: [Laravel / PHP, sesuaikan dengan composer.json]
-- Frontend: [Blade, Tailwind, Bootstrap, dll]
-- Database: [MySQL, dll]
-- Queue: [database / Redis, dll]
+- Frontend: [Blade, Tailwind / Bootstrap, JavaScript, dll]
+- Backend: Laravel (dikerjakan oleh @sin666leton)
 
 ## Tampilan
 
